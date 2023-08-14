@@ -1,4 +1,4 @@
-# bank-marketing-campaign-predictive-analytics
+# Bank Marketing Campaign Predictive Analytics
 Using data analytics, this project predicts success in banking marketing campaigns. Applied machine learning techniques enhance decision-making, optimizing strategies for increased efficiency and effectiveness.
 
 The final project, titled "Bank Marketing Campaign Predictive Analytics," encapsulates the culmination of my immersive journey in data science and machine learning. With a focus on practical application, this project endeavors to predict the success of marketing campaigns within the banking sector. The project's essence lies in harnessing predictive analytics to forecast whether clients will subscribe to a bank's products or services based on a myriad of influential factors.
